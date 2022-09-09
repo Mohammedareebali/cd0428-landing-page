@@ -66,6 +66,12 @@ ul.appendChild(li);
 
 document.addEventListener("scroll", function() { makeActive();});
 // Scroll to anchor ID using scrollTO event
+//Build menu 
+
+// Scroll to section on link click
+
+// Set sections as active
+
 const link  = document.querySelectorAll('.menu__link');
 link.forEach((val)=>{
     val.addEventListener('click' , ()=>{
@@ -79,11 +85,3 @@ link.forEach((val)=>{
  * Begin Events
  * 
 */
-
-// Build menu 
-
-// Scroll to section on link click
-
-// Set sections as active
-
-
