@@ -16,9 +16,7 @@ latest information about lorem.
 ## dependencies
 1. eslint
 ## contribute
-1. udacity
-2. masterschool
-3. Mohammed Areeb Ali
+1. Mohammed Areeb Ali
 ## licence
 open `licence.txt` to know more
 ## footer 
