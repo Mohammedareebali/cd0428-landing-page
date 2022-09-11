@@ -15,7 +15,7 @@ an overview about lorem and what it is in four sections as well as a 'contact me
 latest information about lorem.
 ## dependencies
 1. eslint
-## contribute
+## contributers
 1. Mohammed Areeb Ali
 2. rcudacity
 ## licence
