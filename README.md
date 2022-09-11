@@ -17,6 +17,7 @@ latest information about lorem.
 1. eslint
 ## contribute
 1. Mohammed Areeb Ali
+2. rcudacity
 ## licence
 open `licence.txt` to know more
 ## footer 
