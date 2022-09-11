@@ -3,6 +3,9 @@
 ## Table of Contents
 
 * [Instructions](#instructions)
+* [overview](#overview)
+* [usage](#usage)
+* [dependencies](#dependencies)
 
 ## Instructions
 
